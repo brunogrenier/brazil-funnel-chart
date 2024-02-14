@@ -1,0 +1,107 @@
+[
+    {
+        "ageGroup": "100+ years",
+        "men": -10570,
+        "women": 27244
+    },
+    {
+        "ageGroup": "95 a 99 years",
+        "men": -50319,
+        "women": 114859
+    },
+    {
+        "ageGroup": "90 a 94 years",
+        "men": -194341,
+        "women": 385388
+    },
+    {
+        "ageGroup": "85 a 89 years",
+        "men": -493649,
+        "women": 835554
+    },
+    {
+        "ageGroup": "80 a 84 years",
+        "men": -1009852,
+        "women": 1465178
+    },
+    {
+        "ageGroup": "75 a 79 years",
+        "men": -1657786,
+        "women": 2189593
+    },
+    {
+        "ageGroup": "70 a 74 years",
+        "men": -2615350,
+        "women": 3243186
+    },
+    {
+        "ageGroup": "65 a 69 years",
+        "men": -3588052,
+        "women": 4288180
+    },
+    {
+        "ageGroup": "60 a 64 years",
+        "men": -4605834,
+        "women": 5338555
+    },
+    {
+        "ageGroup": "55 a 59 years",
+        "men": -5419505,
+        "women": 6149601
+    },
+    {
+        "ageGroup": "50 a 54 years",
+        "men": -6014391,
+        "women": 6584190
+    },
+    {
+        "ageGroup": "45 a 49 years",
+        "men": -6549109,
+        "women": 7091003
+    },
+    {
+        "ageGroup": "40 a 44 years",
+        "men": -7781059,
+        "women": 8291111
+    },
+    {
+        "ageGroup": "35 a 39 years",
+        "men": -7827333,
+        "women": 8345458
+    },
+    {
+        "ageGroup": "30 a 34 years",
+        "men": -7537285,
+        "women": 7935832
+    },
+    {
+        "ageGroup": "25 a 29 years",
+        "men": -7627458,
+        "women": 7842265
+    },
+    {
+        "ageGroup": "20 a 24 years",
+        "men": -7767306,
+        "women": 7699157
+    },
+    {
+        "ageGroup": "15 a 19 years",
+        "men": -7317515,
+        "women": 7058427
+    },
+    {
+        "ageGroup": "10 a 14 years",
+        "men": -6992746,
+        "women": 6682215
+    },
+    {
+        "ageGroup": "5 a 9 years",
+        "men": -7011282,
+        "women": 6738158
+    },
+    {
+        "ageGroup": "0 a 4 years",
+        "men": -6461689,
+        "women": 6243171
+    }
+]
